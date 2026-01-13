@@ -1,4 +1,4 @@
-# ** *Acinetobacter baumannii* Genomic Analysis Workflow**
+# ***Acinetobacter baumannii* Genomic Analysis Workflow**
 
 This repository contains Jupyter notebooks documenting the complete bioinformatics workflow used for genomic analysis of Acinetobacter spp. isolates. The pipeline covers genome assembly processing, quality assessment, species identification, antimicrobial resistance (AMR) gene detection, plasmid and mobile genetic element analysis, and population genomics.
 
